@@ -21,7 +21,7 @@ $config['sign_in_recaptcha_offset'] 			= 3;
 |--------------------------------------------------------------------------
 */
 $config['sign_up_recaptcha_enabled'] 			= FALSE;
-$config['sign_up_auto_sign_in'] 				= TRUE;
+$config['sign_up_auto_sign_in'] 				= FALSE;
 
 /*
 |--------------------------------------------------------------------------
