@@ -57,6 +57,6 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
-
+include('/afs/athena.mit.edu/activity/l/logs/code/db.php');
 /* End of file database.php */
 /* Location: ./application/config/database.php */
